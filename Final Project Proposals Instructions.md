@@ -1,5 +1,5 @@
 ### ECE160B - Programming Languages for Electrical Engineers
-### Fall 2018
+### Spring 2019
 ### Final Project Proposals
 ### Due 04/06/19 11:59PM (on github)  
 
