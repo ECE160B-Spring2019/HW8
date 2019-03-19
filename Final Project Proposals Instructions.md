@@ -1,7 +1,7 @@
 ### ECE160B - Programming Languages for Electrical Engineers
 ### Fall 2018
 ### Final Project Proposals
-### Due 04/06/18 11:59PM (on github)  
+### Due 04/06/19 11:59PM (on github)  
 
 The goal of this class is to learn programming skills to apply them to real world applications. As you know, knowing how to program is being standard in industry. In this final project, you are to propose an application that you will program in C++ and you will present the project to the class in a pitch-like manner.  
 
